@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\mujta\onedrive\documents\visual studio 2015\git\my-university-learning\pf project  data cell\pf project  data cell\source.cpp(310): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\mujta\onedrive\documents\visual studio 2015\git\my-university-learning\pf project  data cell\pf project  data cell\source.cpp(378): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  PF PROJECT  DATA CELL.vcxproj -> C:\Users\mujta\OneDrive\Documents\Visual Studio 2015\git\MY-UNIVERSITY-LEARNING\PF PROJECT  DATA CELL\Debug\PF PROJECT  DATA CELL.exe
+  PF PROJECT  DATA CELL.vcxproj -> C:\Users\mujta\OneDrive\Documents\Visual Studio 2015\git\MY-UNIVERSITY-LEARNING\PF PROJECT  DATA CELL\Debug\PF PROJECT  DATA CELL.pdb (Partial PDB)

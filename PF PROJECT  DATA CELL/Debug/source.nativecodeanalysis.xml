@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\mujta\onedrive\documents\visual studio 2015\git\my-university-learning\pf project  data cell\pf project  data cell\</FILEPATH>
+      <FILENAME>source.cpp</FILENAME>
+      <LINE>936</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'choice' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '663' of 'c:\users\mujta\onedrive\documents\visual studio 2015\git\my-university-learning\pf project  data cell\pf project  data cell\source.cpp'.</DESCRIPTION>
+    <FUNCTION>performTask</FUNCTION>
+    <DECORATED>?performTask@@YAXAAUDataCell@@AA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>660</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\mujta\onedrive\documents\visual studio 2015\git\my-university-learning\pf project  data cell\pf project  data cell\</FILEPATH>
+        <FILENAME>source.cpp</FILENAME>
+        <LINE>663</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>
